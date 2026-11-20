@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FComressor</string>
+    <string name="notification_channel_encoding">Сжатие медиа</string>
+    <string name="notification_encoding_title">Идет обработка файла</string>
+    <string name="notification_encoding_idle">Подготовка FFmpeg</string>
+</resources>
